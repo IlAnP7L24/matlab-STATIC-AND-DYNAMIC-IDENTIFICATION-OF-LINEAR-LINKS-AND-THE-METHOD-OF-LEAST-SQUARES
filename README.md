@@ -35,6 +35,8 @@ The process of unsteady heat conduction in a flat wall
 ![image](https://github.com/IlAnP7L24/matlab-STATIC-AND-DYNAMIC-IDENTIFICATION-OF-LINEAR-LINKS-AND-THE-METHOD-OF-LEAST-SQUARES/assets/158156829/12ad76f1-c0ef-4acb-b536-c3df5f4ae384)
 
 
+Task C
+
 Observation of the process of non-stationary heat conduction in a flat wall
 
 ![image](https://github.com/IlAnP7L24/matlab-STATIC-AND-DYNAMIC-IDENTIFICATION-OF-LINEAR-LINKS-AND-THE-METHOD-OF-LEAST-SQUARES/assets/158156829/ba6aa366-4c47-4683-b72e-87aff3d5245c)
