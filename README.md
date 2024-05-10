@@ -8,7 +8,11 @@ Processes in the mechanical part of inertial accelerometers used in automation s
 
 Where m is the mass of the inertial element; β and c are characteristics of dissipative and elastic elements; x is a coordinate that determines the position of the inertial element relative to the undeformed elastic element; u is the law of motion of the measured object.
 
+Structure of the mechanical part of the inertial accelerometer:
+
 ![image](https://github.com/IlAnP7L24/matlab-STATIC-AND-DYNAMIC-IDENTIFICATION-OF-LINEAR-LINKS-AND-THE-METHOD-OF-LEAST-SQUARES/assets/158156829/68bec14a-70a9-4040-9071-17a0f2871792)
+
+Simulink simulation of the mechanical part of the inertial accelerometer:
 
 ![image](https://github.com/IlAnP7L24/matlab-STATIC-AND-DYNAMIC-IDENTIFICATION-OF-LINEAR-LINKS-AND-THE-METHOD-OF-LEAST-SQUARES/assets/158156829/340682ee-4ae2-4f41-8007-321772e67eaa)
 
